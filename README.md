@@ -1,7 +1,8 @@
 ## Hi there 👋
+My name is Muhammad Syaifudinas Senior Data Scientist
 
 <!--
-**SyfDin/SyfDin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**arifromadhan19/arifromadhan19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
